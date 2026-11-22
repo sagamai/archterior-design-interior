@@ -1,0 +1,8 @@
+{
+  "name": "Remix Archterior Design Studio UI",
+  "description": "A responsive, modern architecture studio hero section featuring elegant typography and a sophisticated warm-toned design palette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
